@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Subhrajit Roy   subhrajit.roy@gmail.com subhre
 
 # THANKS
 
