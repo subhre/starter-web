@@ -1,7 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work together.
-We're doing an emergency fix after our stash.
+Making changes for multiple stash example.
 
 ## Introduction
 
